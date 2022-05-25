@@ -1,6 +1,3 @@
-# Processo seletivo ACDG
-Resolução dos desafios propostos no processo seletivo ACDG para a vaga de Desenvolvedor.
-
 ## Observações
 - Todos os desafios foram resolvidos usando Javascript
 - As funções podem ser testadas executando o comando node index.js, dentro de cada pasta de challenges
