@@ -6,7 +6,7 @@ const booleanToString = boolean => {
   return boolean.toString();
 };
 
-const yourParam = "true";
+const yourParam = true;
 const result = booleanToString(yourParam);
 
 console.log(result);

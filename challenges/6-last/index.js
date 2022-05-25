@@ -35,6 +35,6 @@ const addingArray = (arr1, arr2) => {
 };
 
 const array1 = [10,20,30,40,50] ;
-const array2 = [1,2,3,4,5] ;
+const array2 = [1,2,3,4,"5"];
 const result = addingArray(array1, array2);
 console.log(result);
